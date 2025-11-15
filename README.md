@@ -153,3 +153,12 @@ This is a prototype application using localStorage for data persistence. In a pr
 ## License
 
 MIT
+
+## Group Members
+
+Dominguito, Eduardo
+Lagmay, Hans
+Natividad, Wel John
+Sio, Lemuel
+Geralde, Luigi Renzo
+Imperio, Derek Noah
